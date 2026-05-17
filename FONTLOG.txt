@@ -1,0 +1,55 @@
+FONTLOG for Comfortonma Black
+============================
+
+This file provides detailed information on the Comfortonma Black Font Software.
+This information should be distributed along with the Comfortonma Black fonts
+and any derivative works.
+
+Font Information
+----------------
+Comfortonma Black is a derivative of Comfortaa Bold, a rounded geometric
+sans-serif typeface designed by Johan Aakerlund. This version adds an
+extra-black weight (900) by expanding the stroke width of all glyphs,
+preserving the distinctive rounded geometry of the original design.
+
+Comfortonma Black is intended for display use, headlines, branding, and
+any context where a bold, friendly, and rounded typeface is desired.
+
+Features:
+- 873 glyphs (full Latin, Extended Latin, Cyrillic, and more)
+- Weight class: 900 (Black)
+- Supports 72+ languages
+- SIL Open Font License 1.1
+
+ChangeLog
+---------
+2026 — Comfortonma Black v1.000
+  - Initial release
+  - Derived from Comfortaa Bold (v3.105) by Johan Aakerlund
+  - All glyph contours expanded outward using perpendicular normal vectors
+  - Weight class updated to 900 (Black)
+  - Reserved Font Name changed to "Comfortonma" per OFL requirements
+  - Full glyph set preserved (873 glyphs)
+
+Acknowledgements
+----------------
+Original Comfortaa design by Johan Aakerlund (aajohan@gmail.com)
+https://github.com/googlefonts/comfortaa
+
+Comfortonma Black derived work produced using FontTools
+https://github.com/fonttools/fonttools
+
+If you make modifications, be sure to add your name (N), email (E),
+web-address (if you have one) (W) and description (D). This list is
+in alphabetical order.
+
+N: Johan Aakerlund
+E: aajohan@gmail.com
+W: http://aajohan.deviantart.com
+D: Original Comfortaa designer
+
+N: Leonardo Oliveira
+E: leoolyveiradev@gmail.com
+W: https://github.com/leoolyveiradev
+W: https://instagram.com/leoolyveira.dev
+D: Created Comfortonma Black — derived Black weight from Comfortaa Bold
